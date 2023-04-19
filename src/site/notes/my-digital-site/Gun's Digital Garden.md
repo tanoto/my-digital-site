@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/my-digital-site/gun-s-digital-garden/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/my-digital-site/gun-s-digital-garden/","tags":["gardenEntry"]}
 ---
 
 
-# Published Header
+# To be updated
 
-Published content revision
+TBD
 
 
 
