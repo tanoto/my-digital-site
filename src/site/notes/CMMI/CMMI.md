@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cmmi/cmmi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/cmmi/cmmi/"}
 ---
 
 
