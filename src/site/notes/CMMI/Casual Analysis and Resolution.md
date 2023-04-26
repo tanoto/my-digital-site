@@ -3,7 +3,7 @@
 ---
 
 
->[!Note] Table of Content
+>[!Info] Table of Content
 [[CMMI/Casual Analysis and Resolution#1. Scope / Intent\|1. Scope / Intent]]
 [[CMMI/Casual Analysis and Resolution#2. Entry criteria\|2. Entry criteria]]
 [[CMMI/Casual Analysis and Resolution#3. Inputs\|3. Inputs]]
@@ -15,7 +15,7 @@
 [[CMMI/Casual Analysis and Resolution#9. Users of the document\|9. Users of the document]]
 [[CMMI/Casual Analysis and Resolution#10. Formats and Guidelines\|10. Formats and Guidelines]]
 
->[!Document]
+>[!Info]
 [[CMMI/CAR Document\|Causal Analysis and Resolution Document]]
 
 
