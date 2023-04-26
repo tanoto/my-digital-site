@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/cmmi/casual-analysis-and-resolution/","dgShowBacklinks":true,"dgShowToc":true}
 ---
 
+
+[[CMMI/CAR Document\|Causal Analysis and Resolution Document]]
+
+
+
 # 1. Scope / Intent
 
 Processes and Products can never be considered absolute. Circumstances and situations may arise resulting in deviation from the defined and documented system. Circumstances may also exist wherein the defined system, unless changed, cannot be effectively implemented.
