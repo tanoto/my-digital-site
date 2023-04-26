@@ -6,6 +6,21 @@
 [[CMMI/CAR Document\|Causal Analysis and Resolution Document]]
 
 
+>[!Table of Content]
+[[CMMI/Casual Analysis and Resolution#1. Scope / Intent\|1. Scope / Intent]]
+[[CMMI/Casual Analysis and Resolution#2. Entry criteria\|2. Entry criteria]]
+[[CMMI/Casual Analysis and Resolution#3. Inputs\|3. Inputs]]
+[[CMMI/Casual Analysis and Resolution#4. Value\|4. Value]]
+[[CMMI/Casual Analysis and Resolution#5. Key measures\|5. Key measures]]
+[[CMMI/Casual Analysis and Resolution#6. Process Description\|6. Process Description]]
+  [[CMMI/Casual Analysis and Resolution#Control chart outlier analysis\|Control chart outlier analysis]]
+  [[CMMI/Casual Analysis and Resolution#Defect Analysis\|Defect Analysis]]
+ [[CMMI/Casual Analysis and Resolution#SEPG activities\|SEPG activities]]
+[[CMMI/Casual Analysis and Resolution#7. Exit Criteria\|7. Exit Criteria]]
+[[CMMI/Casual Analysis and Resolution#8. Outputs\|8. Outputs]]
+[[CMMI/Casual Analysis and Resolution#9. Users of the document\|9. Users of the document]]
+[[CMMI/Casual Analysis and Resolution#10. Formats and Guidelines\|10. Formats and Guidelines]]
+
 
 # 1. Scope / Intent
 
