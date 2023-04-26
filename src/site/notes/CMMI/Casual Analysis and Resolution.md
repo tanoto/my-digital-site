@@ -6,7 +6,7 @@
 [[CMMI/CAR Document\|Causal Analysis and Resolution Document]]
 
 
->[!Note] # Table of Content
+>[!Note] Table of Content
 [[CMMI/Casual Analysis and Resolution#1. Scope / Intent\|1. Scope / Intent]]
 [[CMMI/Casual Analysis and Resolution#2. Entry criteria\|2. Entry criteria]]
 [[CMMI/Casual Analysis and Resolution#3. Inputs\|3. Inputs]]
