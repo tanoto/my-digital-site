@@ -7,7 +7,7 @@
 
 ## Section 1: The Assembly Line
 
-> [!NOTE]
+> [!NOTE] Section 1
 
 
 Interchangeable parts enabled some fundamentally different approaches in manufacturing and spurred the creation of the assembly factory. The best-known early example is Henry Ford's Model T factory, where he created an efficient, continuous flow through a manufacturing line that began with raw iron ore and resulted in a final product in 81 hours (Goldratt 2006). This efficient process meant that it wasn't necessary for a journeyman to know how to do everything from end to end. Instead, very complex things were broken down into simpler components that could be maximized and quickly assembled. 
