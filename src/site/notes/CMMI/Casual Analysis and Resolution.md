@@ -3,9 +3,6 @@
 ---
 
 
-[[CMMI/CAR Document\|Causal Analysis and Resolution Document]]
-
-
 >[!Note] Table of Content
 [[CMMI/Casual Analysis and Resolution#1. Scope / Intent\|1. Scope / Intent]]
 [[CMMI/Casual Analysis and Resolution#2. Entry criteria\|2. Entry criteria]]
@@ -17,6 +14,9 @@
 [[CMMI/Casual Analysis and Resolution#8. Outputs\|8. Outputs]]
 [[CMMI/Casual Analysis and Resolution#9. Users of the document\|9. Users of the document]]
 [[CMMI/Casual Analysis and Resolution#10. Formats and Guidelines\|10. Formats and Guidelines]]
+
+>[!Document]
+[[CMMI/CAR Document\|Causal Analysis and Resolution Document]]
 
 
 # 1. Scope / Intent
