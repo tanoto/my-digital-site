@@ -9,7 +9,7 @@ CMMI (Capability Maturity Model Integration) is a process improvement framework 
 
 | Practice Areas                                 | CMMI Levels      |
 |------------------------------------------------|------------------|
-| [[CMMI/Causal Analysis/Casual Analysis and Resolution\|Casual Analysis and Resolution]]                 | Level 3, Level 5 |
+| [[CMMI/Casual Analysis and Resolution\|Casual Analysis and Resolution]]                 | Level 3, Level 5 |
 | Measuring Performance Management               | Level 3, Level 5 |
 | Process Management / Process Asset Development | Level 4          |
 | Organizational Training                        | Level 3          |
@@ -18,4 +18,4 @@ CMMI (Capability Maturity Model Integration) is a process improvement framework 
 | Decision Analysis and Resolution               | Level 3          |
 | Estimation                                     | Level 3          |
 
-[[CMMI/Causal Analysis/Casual Analysis and Resolution\|Causal]]
+[[CMMI/Casual Analysis and Resolution\|Causal]]
