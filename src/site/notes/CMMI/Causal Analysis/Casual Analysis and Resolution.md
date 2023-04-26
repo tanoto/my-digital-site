@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cmmi/causal-analysis/casual-analysis-and-resolution/"}
+{"dg-publish":true,"permalink":"/cmmi/causal-analysis/casual-analysis-and-resolution/","dgShowToc":true}
 ---
 
 # 1. Scope / Intent
