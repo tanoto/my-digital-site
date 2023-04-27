@@ -7,7 +7,7 @@ CMMI (Capability Maturity Model Integration) is a process improvement framework 
 
 # CMMI 2.0 Practice Areas
 
-| **Practice Areas**                                   | ***CMMI Levels***          |
+| Practice Areas                                   | CMMI Levels          |
 | : ---------------------------------------------- | : ---------------- : |
 | [[CMMI/Casual Analysis and Resolution\|Casual Analysis and Resolution]]               | Level 3, Level 5     |
 | Measuring Performance Management                 | Level 3, Level 5     |
