@@ -15,8 +15,8 @@
 [[CMMI/Casual Analysis and Resolution#9. Users of the document\|9. Users of the document]]
 [[CMMI/Casual Analysis and Resolution#10. Formats and Guidelines\|10. Formats and Guidelines]]
 
->[!Info]
-[[CMMI/CMMI Templates/CAR Document\|Causal Analysis and Resolution Document]]
+>[!Info] Supporting Documents
+[[CMMI/CMMI Templates/CAR Template\|Causal Analysis and Resolution Document]]
 
 
 # 1. Scope / Intent
