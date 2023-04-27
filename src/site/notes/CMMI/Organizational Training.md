@@ -4,31 +4,22 @@
 
 
 >[!Info] Table of Content
+[[CMMI/Organizational Training#1. Purpose / Intent\|1. Purpose / Intent]]
+[[CMMI/Organizational Training#2. Entry Criteria\|2. Entry Criteria]]
+[[CMMI/Organizational Training#3. Input\|3. Input]]
+[[CMMI/Organizational Training#4. Responsibilities and Authorities\|4. Responsibilities and Authorities]]
+[[CMMI/Organizational Training#5. Value\|5. Value]]
+[[CMMI/Organizational Training#6. Tasks\|6. Tasks]]
+[[CMMI/Organizational Training#7. Measurements\|7. Measurements]]
+[[CMMI/Organizational Training#8. Exit Criteria\|8. Exit Criteria]]
+[[CMMI/Organizational Training#9. Output/Work Products\|9. Output/Work Products]]
+[[CMMI/Organizational Training#10 Approvals\|10 Approvals]]
+[[CMMI/Organizational Training#11 Metrics\|11 Metrics]]
+[[CMMI/Organizational Training#12 Reference Documents\|12 Reference Documents]]
 
-- [[CMMI/Organizational Training#1. Purpose / Intent\|1. Purpose / Intent]]
-- [[CMMI/Organizational Training#2. Entry Criteria\|2. Entry Criteria]]
-- [[CMMI/Organizational Training#3. Input\|3. Input]]
-- [[CMMI/Organizational Training#4. Responsibilities and Authorities\|4. Responsibilities and Authorities]]
-- [[CMMI/Organizational Training#5. Value\|5. Value]]
-- [[CMMI/Organizational Training#6. Tasks\|6. Tasks]]
-		- [[CMMI/Organizational Training#Resources for training and development\|Resources for training and development]]
-		- [[CMMI/Organizational Training#Budget for training and development\|Budget for training and development]]
-		- [[CMMI/Organizational Training#Time allocation for training and development\|Time allocation for training and development]]
-		- [[CMMI/Organizational Training#Development or Procurement of Training Material:\|Development or Procurement of Training Material:]]
-		- [[CMMI/Organizational Training#Identification of Participants:\|Identification of Participants:]]
-		- [[CMMI/Organizational Training#Pre-Training Activities:\|Pre-Training Activities:]]
-		- [[CMMI/Organizational Training#Training Execution\|Training Execution]]
-		- [[CMMI/Organizational Training#For Internal Trainings\|For Internal Trainings]]
-		- [[CMMI/Organizational Training#For External Trainings\|For External Trainings]]
-		- [[CMMI/Organizational Training#Training Evaluation\|Training Evaluation]]
-		- [[CMMI/Organizational Training#Training Feedback\|Training Feedback]]
-		- [[CMMI/Organizational Training#Training Waivers\|Training Waivers]]
-- [[CMMI/Organizational Training#7. Measurements\|7. Measurements]]
-- [[CMMI/Organizational Training#8. Exit Criteria\|8. Exit Criteria]]
-- [[CMMI/Organizational Training#9. Output/Work Products\|9. Output/Work Products]]
-- [[CMMI/Organizational Training#10 Approvals\|10 Approvals]]
-- [[CMMI/Organizational Training#11 Metrics\|11 Metrics]]
-- [[CMMI/Organizational Training#12 Reference Documents\|12 Reference Documents]]
+>[!Info] Supporting Documents
+>[[CMMI/CMMI Templates/Training Template\|Training Template]]
+
 
 ---
 
