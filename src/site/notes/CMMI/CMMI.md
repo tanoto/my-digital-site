@@ -7,18 +7,20 @@ CMMI (Capability Maturity Model Integration) is a process improvement framework 
 
 # CMMI 2.0 Practice Areas
 
-| Practice Areas                                 | CMMI Levels      |
-| ---------------------------------------------- | ---------------- |
-| [[CMMI/Casual Analysis and Resolution\|Casual Analysis and Resolution]]             | Level 3, Level 5 |
-| Measuring Performance Management               | Level 3, Level 5 |
-| Process Management / Process Asset Development | Level 4          |
-| [[CMMI/Organizational Training\|Organizational Training]]                    | Level 3          |
-| Configuration and Change Management            | Level 2          |
-| Process Quality Assurance                      | Level 3          |
-| Decision Analysis and Resolution               | Level 3          |
-| Estimation                                     | Level 3          |
-| Planning, Monitoring and Control               | Level 4          |
-| Pro| Level 3|
-|Risk and Opportunity Management                | Level 3                                                          |                  |
-
-
+| **Practice Areas**                                   | ***CMMI Levels***          |
+| : ---------------------------------------------- | : ---------------- : |
+| [[CMMI/Casual Analysis and Resolution\|Casual Analysis and Resolution]]               | Level 3, Level 5     |
+| Measuring Performance Management                 | Level 3, Level 5     |
+| Process Management / Process Asset Development   | Level 4              |
+| [[CMMI/Organizational Training\|Organizational Training]]                      | Level 3              |
+| Configuration and Change Management              | Level 2              |
+| Process Quality Assurance                        | Level 3              |
+| Decision Analysis and Resolution                 | Level 3              |
+| Estimation                                       | Level 3              |
+| Planning, Monitoring and Control                 | Level 4              |
+| &emsp; &mdash; Project initiation                      |                      |
+| &emsp; &mdash; Project Planning                        |                      |
+| &emsp; &mdash; Project Monitoring                      |                      |
+| &emsp; &mdash; Project Closure                         |                      |
+| Risk and Opportunity Management                  | Level 3              |
+|                                                  |                      |
