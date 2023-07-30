@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/generative-ai/10-prompt-example-for-software-engineers/","tags":["prompt, generation_ai"],"dgShowBacklinks":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/generative-ai/10-prompt-example-for-software-engineers/","tags":["prompt, generation_ai"],"dgShowBacklinks":true,"dgShowToc":true,"noteIcon":""}
 ---
 
 
