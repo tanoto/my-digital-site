@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quality-programs/quality-program-dashboard/","noteIcon":""}
+{"dg-publish":true,"permalink":"/quality-programs/quality-program-dashboard/"}
 ---
 
 
