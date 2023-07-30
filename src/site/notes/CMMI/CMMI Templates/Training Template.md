@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cmmi/cmmi-templates/training-template/","dgShowBacklinks":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/cmmi/cmmi-templates/training-template/","dgShowBacklinks":true,"dgShowToc":true,"noteIcon":""}
 ---
 
 
