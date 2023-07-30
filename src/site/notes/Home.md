@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowFileTree":false,"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowFileTree":false}
 ---
 
 
 # [[CMMI/CMMI\|CMMI Level 5]]
 
 
-# [[Generative AI/Summary\|Summary]]
+# [[Generative AI Summary\|Generative AI Summary]]
 
 
