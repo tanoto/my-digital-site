@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cmmi/organizational-training/","dgShowBacklinks":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/cmmi/organizational-training/","dgShowBacklinks":true,"dgShowToc":true,"noteIcon":""}
 ---
 
 
