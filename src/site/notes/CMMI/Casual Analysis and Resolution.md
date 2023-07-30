@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cmmi/casual-analysis-and-resolution/","dgShowBacklinks":true,"dgShowToc":true}
+{"dg-publish":true,"permalink":"/cmmi/casual-analysis-and-resolution/","dgShowBacklinks":true,"dgShowToc":true,"noteIcon":""}
 ---
 
 
